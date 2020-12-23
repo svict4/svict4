@@ -1,3 +1,3 @@
 # Hello! 👋
 
-I do #govtech and #civictech stuff
+I build stuff
